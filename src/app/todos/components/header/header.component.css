@@ -1,0 +1,12 @@
+.header-title{
+    font-size: 4em;
+    text-align: center;
+    color: brown;
+}
+.new-todo {
+    padding: 2em;
+    width: 100%;
+    display: flex;
+    /* flex-direction: column;
+    flex: 1 0 1; */
+}
